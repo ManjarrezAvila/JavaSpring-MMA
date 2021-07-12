@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this course we learn .
+In this course we learn about the most propular framework of Java. We used four spring projects: spring framework, spring boot, spring data JPA and spring security
 
 ## Dependencies
 
